@@ -1,0 +1,15 @@
+/* CSS (styles.css) */
+body {
+    background-color: #YOUR_PRIMARY_COLOR; /* Replace with your primary color from the logo */
+    color: #YOUR_SECONDARY_COLOR; /* Replace with your secondary color from the logo */
+    font-family: Arial, sans-serif;
+}
+
+#radio-container {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #YOUR_ACCENT_COLOR; /* Replace with your accent color from the logo */
+}
